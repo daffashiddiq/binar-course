@@ -2,4 +2,5 @@
 
 satu
 dua
+dua
 tiga
